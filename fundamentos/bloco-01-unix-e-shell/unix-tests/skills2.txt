@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Computador
+Teclado
+Mouse
+Shell
+Zsh
