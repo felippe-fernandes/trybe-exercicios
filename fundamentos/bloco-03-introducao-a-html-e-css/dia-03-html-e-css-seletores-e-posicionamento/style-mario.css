@@ -33,4 +33,5 @@
   position: absolute;
   margin-left: 791px;
   margin-top: 145px;
+  transform: rotateZ(15deg);
 }
