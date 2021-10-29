@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orangered;
+}
+
+ul {
+    color: green;
+    text-decoration: underline;
+    text-align: left;
+    font-style: italic;
+    line-height: 30px;
+    background-color: blueviolet;
+}
+
+.bg-color-text {
+    background-color: cyan;
+}
+
+p {
+    font-size: 3em;
+    font-weight: 600;
+}
+
+#lista-amarela {
+    background-color: yellow;
+}
+
+#lista-vermelha {
+    background-color: red;
+}
+#lista-marrom{
+    background-color: brown;
+}
